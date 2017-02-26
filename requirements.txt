@@ -1,0 +1,4 @@
+praw==4.4.0
+prawcore==0.8.0
+requests==2.10.0
+
