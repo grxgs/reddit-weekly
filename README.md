@@ -31,7 +31,7 @@ After installation, set following environment variables.
 In the main.py file, there is a list called `subreddits`. Enter in the names 
 of the subreddits that you want to receive the digest for. 
 
-Note: The subreddit configuration will most likely move to a file in the future
+*Note:* The subreddit configuration will most likely move to a file in the future.
 
 #### Running
 
@@ -41,5 +41,4 @@ To run the app, type in the following.
 
 You should see message indicating which subreddit is being checked. Once complete, check your email. 
 To get the most use out of this, I recommend adding it to your crontab on a server so you can 
-
 customize when you want to receive these digests. 
